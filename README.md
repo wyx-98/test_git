@@ -11,3 +11,5 @@ master third commit
 master fourth commit
 master github first commit
 
+
+fix bug v1.0.1
