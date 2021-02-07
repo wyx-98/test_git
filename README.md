@@ -1,3 +1,4 @@
 # test_git
-first commit
+master first commit
 fix branch first commit
+master second commit
